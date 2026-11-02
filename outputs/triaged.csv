@@ -1,0 +1,601 @@
+record_id,score,action,reasons
+R0001,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0002,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0003,0,no_action,
+R0004,0,no_action,
+R0005,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0006,0,no_action,
+R0007,0,no_action,
+R0008,35,escalate_human_review,ENTITY_NAMESPACE_MISMATCH: individual is not an expected holder of org.au
+R0009,0,no_action,
+R0010,0,no_action,
+R0011,0,no_action,
+R0012,0,no_action,
+R0013,0,no_action,
+R0014,0,no_action,
+R0015,0,no_action,
+R0016,0,no_action,
+R0017,0,no_action,
+R0018,0,no_action,
+R0019,0,no_action,
+R0020,0,no_action,
+R0021,0,no_action,
+R0022,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0023,5,no_action,BULK_HOLDER: Registrant holds many domains
+R0024,0,no_action,
+R0025,0,no_action,
+R0026,0,no_action,
+R0027,0,no_action,
+R0028,65,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant; BULK_SPECULATIVE: Many domains held and the name looks speculative; STALE_DETAILS: Registrant details not updated for over a year
+R0029,0,no_action,
+R0030,0,no_action,
+R0031,0,no_action,
+R0032,0,no_action,
+R0033,0,no_action,
+R0034,0,no_action,
+R0035,65,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant; BULK_SPECULATIVE: Many domains held and the name looks speculative; STALE_DETAILS: Registrant details not updated for over a year
+R0036,45,escalate_human_review,REGISTRY_CANCELLED: The registrant's registration is cancelled
+R0037,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0038,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0039,0,no_action,
+R0040,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0041,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0042,0,no_action,
+R0043,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0044,43,escalate_human_review,ENTITY_NAMESPACE_MISMATCH: partnership is not an expected holder of id.au; NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0045,0,no_action,
+R0046,0,no_action,
+R0047,0,no_action,
+R0048,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0049,13,educate_guide,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name; BULK_HOLDER: Registrant holds many domains
+R0050,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0051,0,no_action,
+R0052,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0053,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0054,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0055,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0056,0,no_action,
+R0057,13,educate_guide,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name; BULK_HOLDER: Registrant holds many domains
+R0058,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0059,0,no_action,
+R0060,0,no_action,
+R0061,0,no_action,
+R0062,0,no_action,
+R0063,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0064,30,escalate_human_review,"TM_NOT_REGISTERED: Eligibility rests on a trade mark that is filed, not registered"
+R0065,0,no_action,
+R0066,0,no_action,
+R0067,0,no_action,
+R0068,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0069,0,no_action,
+R0070,0,no_action,
+R0071,65,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant; BULK_SPECULATIVE: Many domains held and the name looks speculative; STALE_DETAILS: Registrant details not updated for over a year
+R0072,0,no_action,
+R0073,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0074,0,no_action,
+R0075,43,escalate_human_review,ENTITY_NAMESPACE_MISMATCH: company is not an expected holder of id.au; NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0076,0,no_action,
+R0077,0,no_action,
+R0078,0,no_action,
+R0079,0,no_action,
+R0080,28,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending; NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0081,20,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending
+R0082,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0083,0,no_action,
+R0084,0,no_action,
+R0085,0,no_action,
+R0086,0,no_action,
+R0087,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0088,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0089,0,no_action,
+R0090,5,no_action,BULK_HOLDER: Registrant holds many domains
+R0091,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0092,0,no_action,
+R0093,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0094,0,no_action,
+R0095,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0096,0,no_action,
+R0097,0,no_action,
+R0098,0,no_action,
+R0099,0,no_action,
+R0100,0,no_action,
+R0101,0,no_action,
+R0102,0,no_action,
+R0103,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0104,0,no_action,
+R0105,0,no_action,
+R0106,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0107,0,no_action,
+R0108,0,no_action,
+R0109,0,no_action,
+R0110,0,no_action,
+R0111,53,escalate_human_review,REGISTRY_CANCELLED: The registrant's registration is cancelled; NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0112,45,escalate_human_review,ID_INVALID: Identifier (ABN/ACN/association number) did not verify
+R0113,0,no_action,
+R0114,30,escalate_human_review,"TM_NOT_REGISTERED: Eligibility rests on a trade mark that is filed, not registered"
+R0115,0,no_action,
+R0116,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0117,0,no_action,
+R0118,10,educate_guide,STALE_DETAILS: Registrant details not updated for over a year
+R0119,0,no_action,
+R0120,0,no_action,
+R0121,0,no_action,
+R0122,0,no_action,
+R0123,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0124,0,no_action,
+R0125,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0126,0,no_action,
+R0127,5,no_action,BULK_HOLDER: Registrant holds many domains
+R0128,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0129,35,escalate_human_review,ENTITY_NAMESPACE_MISMATCH: individual is not an expected holder of org.au
+R0130,30,escalate_human_review,"TM_NOT_REGISTERED: Eligibility rests on a trade mark that is filed, not registered"
+R0131,0,no_action,
+R0132,45,escalate_human_review,ID_INVALID: Identifier (ABN/ACN/association number) did not verify
+R0133,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0134,0,no_action,
+R0135,0,no_action,
+R0136,0,no_action,
+R0137,0,no_action,
+R0138,0,no_action,
+R0139,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0140,0,no_action,
+R0141,0,no_action,
+R0142,0,no_action,
+R0143,35,escalate_human_review,ENTITY_NAMESPACE_MISMATCH: trade_mark_holder is not an expected holder of id.au
+R0144,0,no_action,
+R0145,10,educate_guide,STALE_DETAILS: Registrant details not updated for over a year
+R0146,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0147,20,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending
+R0148,30,escalate_human_review,"TM_NOT_REGISTERED: Eligibility rests on a trade mark that is filed, not registered"
+R0149,0,no_action,
+R0150,0,no_action,
+R0151,0,no_action,
+R0152,0,no_action,
+R0153,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0154,0,no_action,
+R0155,0,no_action,
+R0156,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0157,0,no_action,
+R0158,0,no_action,
+R0159,0,no_action,
+R0160,0,no_action,
+R0161,45,escalate_human_review,ID_INVALID: Identifier (ABN/ACN/association number) did not verify
+R0162,0,no_action,
+R0163,0,no_action,
+R0164,0,no_action,
+R0165,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0166,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0167,28,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending; NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0168,0,no_action,
+R0169,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0170,0,no_action,
+R0171,0,no_action,
+R0172,65,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant; BULK_SPECULATIVE: Many domains held and the name looks speculative; STALE_DETAILS: Registrant details not updated for over a year
+R0173,0,no_action,
+R0174,0,no_action,
+R0175,0,no_action,
+R0176,0,no_action,
+R0177,0,no_action,
+R0178,35,escalate_human_review,ENTITY_NAMESPACE_MISMATCH: trade_mark_holder is not an expected holder of id.au
+R0179,0,no_action,
+R0180,0,no_action,
+R0181,0,no_action,
+R0182,0,no_action,
+R0183,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0184,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0185,0,no_action,
+R0186,0,no_action,
+R0187,0,no_action,
+R0188,20,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending
+R0189,0,no_action,
+R0190,0,no_action,
+R0191,0,no_action,
+R0192,0,no_action,
+R0193,0,no_action,
+R0194,20,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending
+R0195,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0196,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0197,0,no_action,
+R0198,0,no_action,
+R0199,0,no_action,
+R0200,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0201,0,no_action,
+R0202,0,no_action,
+R0203,0,no_action,
+R0204,13,educate_guide,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name; BULK_HOLDER: Registrant holds many domains
+R0205,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0206,0,no_action,
+R0207,0,no_action,
+R0208,0,no_action,
+R0209,0,no_action,
+R0210,45,escalate_human_review,REGISTRY_CANCELLED: The registrant's registration is cancelled
+R0211,30,escalate_human_review,"TM_NOT_REGISTERED: Eligibility rests on a trade mark that is filed, not registered"
+R0212,0,no_action,
+R0213,0,no_action,
+R0214,0,no_action,
+R0215,0,no_action,
+R0216,0,no_action,
+R0217,0,no_action,
+R0218,0,no_action,
+R0219,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0220,5,no_action,BULK_HOLDER: Registrant holds many domains
+R0221,30,escalate_human_review,"TM_NOT_REGISTERED: Eligibility rests on a trade mark that is filed, not registered"
+R0222,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0223,0,no_action,
+R0224,0,no_action,
+R0225,0,no_action,
+R0226,0,no_action,
+R0227,65,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant; BULK_SPECULATIVE: Many domains held and the name looks speculative; STALE_DETAILS: Registrant details not updated for over a year
+R0228,0,no_action,
+R0229,0,no_action,
+R0230,0,no_action,
+R0231,0,no_action,
+R0232,0,no_action,
+R0233,0,no_action,
+R0234,20,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending
+R0235,0,no_action,
+R0236,0,no_action,
+R0237,0,no_action,
+R0238,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0239,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0240,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0241,0,no_action,
+R0242,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0243,5,no_action,BULK_HOLDER: Registrant holds many domains
+R0244,0,no_action,
+R0245,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0246,20,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending
+R0247,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0248,35,escalate_human_review,ENTITY_NAMESPACE_MISMATCH: business_name is not an expected holder of id.au
+R0249,0,no_action,
+R0250,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0251,10,educate_guide,STALE_DETAILS: Registrant details not updated for over a year
+R0252,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0253,0,no_action,
+R0254,0,no_action,
+R0255,0,no_action,
+R0256,0,no_action,
+R0257,0,no_action,
+R0258,0,no_action,
+R0259,5,no_action,BULK_HOLDER: Registrant holds many domains
+R0260,0,no_action,
+R0261,0,no_action,
+R0262,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0263,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0264,0,no_action,
+R0265,0,no_action,
+R0266,0,no_action,
+R0267,0,no_action,
+R0268,20,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending
+R0269,0,no_action,
+R0270,0,no_action,
+R0271,45,escalate_human_review,REGISTRY_CANCELLED: The registrant's registration is cancelled
+R0272,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0273,65,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant; BULK_SPECULATIVE: Many domains held and the name looks speculative; STALE_DETAILS: Registrant details not updated for over a year
+R0274,0,no_action,
+R0275,30,escalate_human_review,"TM_NOT_REGISTERED: Eligibility rests on a trade mark that is filed, not registered"
+R0276,0,no_action,
+R0277,0,no_action,
+R0278,0,no_action,
+R0279,53,escalate_human_review,REGISTRY_CANCELLED: The registrant's registration is cancelled; NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0280,0,no_action,
+R0281,0,no_action,
+R0282,0,no_action,
+R0283,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0284,20,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending
+R0285,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0286,0,no_action,
+R0287,0,no_action,
+R0288,0,no_action,
+R0289,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0290,0,no_action,
+R0291,30,escalate_human_review,"TM_NOT_REGISTERED: Eligibility rests on a trade mark that is filed, not registered"
+R0292,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0293,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0294,0,no_action,
+R0295,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0296,0,no_action,
+R0297,0,no_action,
+R0298,0,no_action,
+R0299,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0300,20,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending
+R0301,0,no_action,
+R0302,0,no_action,
+R0303,0,no_action,
+R0304,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0305,0,no_action,
+R0306,0,no_action,
+R0307,0,no_action,
+R0308,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0309,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0310,0,no_action,
+R0311,0,no_action,
+R0312,0,no_action,
+R0313,65,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant; BULK_SPECULATIVE: Many domains held and the name looks speculative; STALE_DETAILS: Registrant details not updated for over a year
+R0314,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0315,0,no_action,
+R0316,0,no_action,
+R0317,0,no_action,
+R0318,0,no_action,
+R0319,0,no_action,
+R0320,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0321,0,no_action,
+R0322,0,no_action,
+R0323,0,no_action,
+R0324,0,no_action,
+R0325,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0326,0,no_action,
+R0327,45,escalate_human_review,ID_INVALID: Identifier (ABN/ACN/association number) did not verify
+R0328,0,no_action,
+R0329,0,no_action,
+R0330,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0331,10,educate_guide,STALE_DETAILS: Registrant details not updated for over a year
+R0332,0,no_action,
+R0333,0,no_action,
+R0334,0,no_action,
+R0335,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0336,13,educate_guide,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name; BULK_HOLDER: Registrant holds many domains
+R0337,20,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending
+R0338,0,no_action,
+R0339,0,no_action,
+R0340,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0341,0,no_action,
+R0342,0,no_action,
+R0343,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0344,0,no_action,
+R0345,0,no_action,
+R0346,0,no_action,
+R0347,0,no_action,
+R0348,45,escalate_human_review,REGISTRY_CANCELLED: The registrant's registration is cancelled
+R0349,0,no_action,
+R0350,0,no_action,
+R0351,0,no_action,
+R0352,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0353,0,no_action,
+R0354,0,no_action,
+R0355,0,no_action,
+R0356,0,no_action,
+R0357,0,no_action,
+R0358,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0359,5,no_action,BULK_HOLDER: Registrant holds many domains
+R0360,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0361,0,no_action,
+R0362,0,no_action,
+R0363,0,no_action,
+R0364,0,no_action,
+R0365,0,no_action,
+R0366,0,no_action,
+R0367,0,no_action,
+R0368,0,no_action,
+R0369,65,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant; BULK_SPECULATIVE: Many domains held and the name looks speculative; STALE_DETAILS: Registrant details not updated for over a year
+R0370,0,no_action,
+R0371,0,no_action,
+R0372,0,no_action,
+R0373,0,no_action,
+R0374,65,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant; BULK_SPECULATIVE: Many domains held and the name looks speculative; STALE_DETAILS: Registrant details not updated for over a year
+R0375,0,no_action,
+R0376,0,no_action,
+R0377,0,no_action,
+R0378,0,no_action,
+R0379,0,no_action,
+R0380,0,no_action,
+R0381,0,no_action,
+R0382,0,no_action,
+R0383,0,no_action,
+R0384,0,no_action,
+R0385,0,no_action,
+R0386,0,no_action,
+R0387,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0388,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0389,13,educate_guide,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name; BULK_HOLDER: Registrant holds many domains
+R0390,10,educate_guide,STALE_DETAILS: Registrant details not updated for over a year
+R0391,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0392,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0393,30,escalate_human_review,"TM_NOT_REGISTERED: Eligibility rests on a trade mark that is filed, not registered"
+R0394,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0395,0,no_action,
+R0396,20,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending
+R0397,0,no_action,
+R0398,0,no_action,
+R0399,0,no_action,
+R0400,0,no_action,
+R0401,0,no_action,
+R0402,0,no_action,
+R0403,0,no_action,
+R0404,10,educate_guide,STALE_DETAILS: Registrant details not updated for over a year
+R0405,0,no_action,
+R0406,0,no_action,
+R0407,0,no_action,
+R0408,0,no_action,
+R0409,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0410,0,no_action,
+R0411,0,no_action,
+R0412,0,no_action,
+R0413,0,no_action,
+R0414,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0415,0,no_action,
+R0416,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0417,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0418,45,escalate_human_review,ID_INVALID: Identifier (ABN/ACN/association number) did not verify
+R0419,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0420,0,no_action,
+R0421,0,no_action,
+R0422,0,no_action,
+R0423,0,no_action,
+R0424,0,no_action,
+R0425,0,no_action,
+R0426,0,no_action,
+R0427,0,no_action,
+R0428,0,no_action,
+R0429,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0430,0,no_action,
+R0431,0,no_action,
+R0432,30,escalate_human_review,"TM_NOT_REGISTERED: Eligibility rests on a trade mark that is filed, not registered"
+R0433,0,no_action,
+R0434,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0435,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0436,0,no_action,
+R0437,0,no_action,
+R0438,0,no_action,
+R0439,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0440,0,no_action,
+R0441,0,no_action,
+R0442,0,no_action,
+R0443,0,no_action,
+R0444,0,no_action,
+R0445,0,no_action,
+R0446,0,no_action,
+R0447,0,no_action,
+R0448,0,no_action,
+R0449,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0450,0,no_action,
+R0451,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0452,0,no_action,
+R0453,0,no_action,
+R0454,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0455,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0456,30,escalate_human_review,"TM_NOT_REGISTERED: Eligibility rests on a trade mark that is filed, not registered"
+R0457,5,no_action,BULK_HOLDER: Registrant holds many domains
+R0458,0,no_action,
+R0459,0,no_action,
+R0460,0,no_action,
+R0461,0,no_action,
+R0462,0,no_action,
+R0463,5,no_action,BULK_HOLDER: Registrant holds many domains
+R0464,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0465,0,no_action,
+R0466,0,no_action,
+R0467,0,no_action,
+R0468,0,no_action,
+R0469,0,no_action,
+R0470,0,no_action,
+R0471,0,no_action,
+R0472,0,no_action,
+R0473,20,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending
+R0474,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0475,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0476,13,educate_guide,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name; BULK_HOLDER: Registrant holds many domains
+R0477,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0478,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0479,0,no_action,
+R0480,0,no_action,
+R0481,0,no_action,
+R0482,0,no_action,
+R0483,0,no_action,
+R0484,0,no_action,
+R0485,0,no_action,
+R0486,0,no_action,
+R0487,0,no_action,
+R0488,0,no_action,
+R0489,10,educate_guide,STALE_DETAILS: Registrant details not updated for over a year
+R0490,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0491,0,no_action,
+R0492,28,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending; NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0493,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0494,10,educate_guide,STALE_DETAILS: Registrant details not updated for over a year
+R0495,0,no_action,
+R0496,0,no_action,
+R0497,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0498,0,no_action,
+R0499,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0500,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0501,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0502,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0503,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0504,0,no_action,
+R0505,20,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending
+R0506,0,no_action,
+R0507,0,no_action,
+R0508,0,no_action,
+R0509,0,no_action,
+R0510,0,no_action,
+R0511,0,no_action,
+R0512,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0513,0,no_action,
+R0514,35,escalate_human_review,ENTITY_NAMESPACE_MISMATCH: trade_mark_holder is not an expected holder of id.au
+R0515,0,no_action,
+R0516,0,no_action,
+R0517,0,no_action,
+R0518,0,no_action,
+R0519,0,no_action,
+R0520,30,escalate_human_review,"TM_NOT_REGISTERED: Eligibility rests on a trade mark that is filed, not registered"
+R0521,28,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending; NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0522,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0523,0,no_action,
+R0524,0,no_action,
+R0525,65,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant; BULK_SPECULATIVE: Many domains held and the name looks speculative; STALE_DETAILS: Registrant details not updated for over a year
+R0526,0,no_action,
+R0527,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0528,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0529,0,no_action,
+R0530,45,escalate_human_review,ID_INVALID: Identifier (ABN/ACN/association number) did not verify
+R0531,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0532,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0533,0,no_action,
+R0534,0,no_action,
+R0535,0,no_action,
+R0536,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0537,0,no_action,
+R0538,0,no_action,
+R0539,0,no_action,
+R0540,0,no_action,
+R0541,0,no_action,
+R0542,0,no_action,
+R0543,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0544,0,no_action,
+R0545,0,no_action,
+R0546,0,no_action,
+R0547,0,no_action,
+R0548,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0549,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0550,0,no_action,
+R0551,0,no_action,
+R0552,30,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant
+R0553,30,escalate_human_review,"TM_NOT_REGISTERED: Eligibility rests on a trade mark that is filed, not registered"
+R0554,0,no_action,
+R0555,0,no_action,
+R0556,10,educate_guide,STALE_DETAILS: Registrant details not updated for over a year
+R0557,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0558,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0559,0,no_action,
+R0560,0,no_action,
+R0561,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0562,0,no_action,
+R0563,0,no_action,
+R0564,0,no_action,
+R0565,0,no_action,
+R0566,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0567,0,no_action,
+R0568,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0569,0,no_action,
+R0570,65,escalate_human_review,NAME_UNRELATED: Requested name has no visible link to the registrant; BULK_SPECULATIVE: Many domains held and the name looks speculative; STALE_DETAILS: Registrant details not updated for over a year
+R0571,0,no_action,
+R0572,0,no_action,
+R0573,0,no_action,
+R0574,0,no_action,
+R0575,0,no_action,
+R0576,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0577,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0578,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0579,0,no_action,
+R0580,0,no_action,
+R0581,0,no_action,
+R0582,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0583,0,no_action,
+R0584,20,educate_guide,REGISTRY_PENDING: The registrant's registration is still pending
+R0585,0,no_action,
+R0586,0,no_action,
+R0587,0,no_action,
+R0588,0,no_action,
+R0589,0,no_action,
+R0590,0,no_action,
+R0591,0,no_action,
+R0592,0,no_action,
+R0593,8,no_action,NAME_WEAK_LINK: Name is only a loose abbreviation of the registrant's name
+R0594,0,no_action,
+R0595,0,no_action,
+R0596,0,no_action,
+R0597,0,no_action,
+R0598,0,no_action,
+R0599,5,no_action,BULK_HOLDER: Registrant holds many domains
+R0600,0,no_action,

@@ -1,0 +1,601 @@
+record_id,namespace,entity_type,legal_name,activity,requested_name,identifier_valid,registry_status,tm_registered,days_since_details_updated,domains_held
+R0001,com.au,company,Quarry Consulting Pty Ltd,business consulting,quarconsulting,1,active,,49,1
+R0002,com.au,company,Coral Printing Pty Ltd,printing signage,coprhub,1,active,,58,1
+R0003,com.au,company,Lantern Consulting Pty Ltd,business consulting,lanternconsulting,1,active,,162,1
+R0004,com.au,trade_mark_holder,Riverbend Physio Pty Ltd,physiotherapy rehabilitation,riverbendphysio,1,active,1,234,3
+R0005,net.au,partnership,Bluegum Plumbing Pty Ltd,plumbing repairs,bluegumplu,1,active,,309,5
+R0006,com.au,sole_trader,Ella Burrows trading as Banksia Printing,printing signage,banksia,1,active,,280,1
+R0007,org.au,club,Tidewater Physio Association Inc,physiotherapy rehabilitation,tp,1,active,,332,5
+R0008,org.au,individual,Sam Okafor,physiotherapy rehabilitation,samokafor,1,active,,118,3
+R0009,id.au,individual,Chen Liu,accounting tax bookkeeping,chenliu,1,active,,125,3
+R0010,com.au,company,Bluegum Electrical Pty Ltd,electrical wiring,bluegum,1,active,,184,5
+R0011,com.au,business_name,Ironbark Bakery Pty Ltd,bakery cakes bread,ironbarkbakery,1,active,,173,3
+R0012,com.au,business_name,Northgate Bakery Pty Ltd,bakery cakes bread,nb,1,active,,66,3
+R0013,org.au,inc_assoc,Harbour Consulting Association Inc,business consulting,harbour,1,active,,164,1
+R0014,com.au,business_name,Oakridge Physio Pty Ltd,physiotherapy rehabilitation,oakridgephysio,1,active,,236,3
+R0015,org.au,inc_assoc,Cedar Tutoring Association Inc,tutoring education,cedar,1,active,,239,1
+R0016,com.au,trade_mark_holder,Riverbend Plumbing Pty Ltd,plumbing repairs,riverbendplumbing,1,active,1,145,5
+R0017,org.au,club,Bluegum Landscaping Association Inc,landscaping gardens,bluegum,1,active,,143,1
+R0018,com.au,sole_trader,Sam Okafor trading as Quarry Plumbing,plumbing repairs,quarry,1,active,,100,2
+R0019,net.au,company,Cedar Landscaping Pty Ltd,landscaping gardens,cedar,1,active,,34,1
+R0020,com.au,sole_trader,Alex Marlow trading as Kestrel Tutoring,tutoring education,kesteducation,1,active,,205,3
+R0021,asn.au,inc_assoc,Fernhill Electrical Association Inc,electrical wiring,fe,1,active,,160,3
+R0022,org.au,club,Fernhill Accounting Association Inc,accounting tax bookkeeping,fernhillacc,1,active,,15,5
+R0023,com.au,company,Bellbird Consulting Pty Ltd,business consulting,bellbird,1,active,,308,30
+R0024,com.au,company,Northgate Cycles Pty Ltd,bicycle repairs cycling,northgate,1,active,,293,1
+R0025,com.au,company,Oakridge Physio Pty Ltd,physiotherapy rehabilitation,oakridge,1,active,,274,3
+R0026,org.au,club,Oakridge Cycles Association Inc,bicycle repairs cycling,oakridgecycles,1,active,,130,2
+R0027,com.au,partnership,Cedar Printing Pty Ltd,printing signage,cp,1,active,,275,1
+R0028,id.au,individual,Sam Okafor,printing signage,cheapflights,1,active,,772,59
+R0029,org.au,inc_assoc,Meridian Printing Association Inc,printing signage,meridian,1,active,,299,1
+R0030,com.au,business_name,Meridian Printing Pty Ltd,printing signage,merisignage,1,active,,336,3
+R0031,com.au,trade_mark_holder,Northgate Consulting Pty Ltd,business consulting,northgateconsulting,1,active,1,6,1
+R0032,com.au,business_name,Harbour Tutoring Pty Ltd,tutoring education,harbourtutoring,1,active,,349,2
+R0033,com.au,trade_mark_holder,Riverbend Cycles Pty Ltd,bicycle repairs cycling,riverbendcycles,1,active,1,304,1
+R0034,com.au,business_name,Summit Physio Pty Ltd,physiotherapy rehabilitation,sp,1,active,,315,1
+R0035,com.au,company,Riverbend Tutoring Pty Ltd,tutoring education,casinoplay,1,active,,608,24
+R0036,com.au,sole_trader,Mia Fitzgerald trading as Harbour Consulting,business consulting,hc,1,cancelled,,119,2
+R0037,com.au,company,Northgate Consulting Pty Ltd,business consulting,northgatecon,1,active,,315,1
+R0038,com.au,partnership,Lantern Electrical Pty Ltd,electrical wiring,lanternele,1,active,,283,2
+R0039,com.au,company,Cedar Bakery Pty Ltd,bakery cakes bread,cedabread,1,active,,268,2
+R0040,com.au,partnership,Ironbark Consulting Pty Ltd,business consulting,ironbarkcon,1,active,,152,3
+R0041,com.au,sole_trader,Jess Whitlam trading as Lantern Accounting,accounting tax bookkeeping,lanttax,1,active,,172,1
+R0042,com.au,company,Cedar Bakery Pty Ltd,bakery cakes bread,cb,1,active,,25,1
+R0043,com.au,company,Northgate Plumbing Pty Ltd,plumbing repairs,northgateplu,1,active,,292,2
+R0044,id.au,partnership,Ironbark Printing Pty Ltd,printing signage,ironbarkpri,1,active,,135,1
+R0045,org.au,inc_assoc,Bluegum Plumbing Association Inc,plumbing repairs,bluegumplumbing,1,active,,64,5
+R0046,org.au,nonprofit,Northgate Tutoring Association Inc,tutoring education,northgate,1,active,,250,1
+R0047,com.au,business_name,Fernhill Physio Pty Ltd,physiotherapy rehabilitation,fernphysiotherapy,1,active,,344,1
+R0048,com.au,company,Bluegum Physio Pty Ltd,physiotherapy rehabilitation,bluegumphy,1,active,,193,1
+R0049,org.au,inc_assoc,Banksia Printing Association Inc,printing signage,bankprinting,1,active,,107,37
+R0050,id.au,individual,Alex Marlow,accounting tax bookkeeping,cryptoinvest,1,active,,242,3
+R0051,org.au,club,Kestrel Tutoring Association Inc,tutoring education,kestreltutoring,1,active,,11,1
+R0052,com.au,company,Tidewater Consulting Pty Ltd,business consulting,tideconsulting,1,active,,71,1
+R0053,com.au,sole_trader,Tom Haddad trading as Harbour Landscaping,landscaping gardens,harbourlan,1,active,,276,1
+R0054,asn.au,club,Bellbird Landscaping Association Inc,landscaping gardens,bestdeals,1,active,,129,1
+R0055,com.au,partnership,Tidewater Consulting Pty Ltd,business consulting,ticohub,1,active,,336,2
+R0056,com.au,business_name,Meridian Plumbing Pty Ltd,plumbing repairs,meridian,1,active,,132,2
+R0057,com.au,business_name,Cedar Tutoring Pty Ltd,tutoring education,cedartut,1,active,,321,39
+R0058,org.au,nonprofit,Bluegum Cycles Association Inc,bicycle repairs cycling,bluegumcyc,1,active,,298,3
+R0059,net.au,company,Wattle Cycles Pty Ltd,bicycle repairs cycling,wattle,1,active,,303,1
+R0060,com.au,business_name,Quarry Tutoring Pty Ltd,tutoring education,quareducation,1,active,,220,1
+R0061,com.au,trade_mark_holder,Quarry Bakery Pty Ltd,bakery cakes bread,quarrybakery,1,active,1,350,1
+R0062,com.au,partnership,Ironbark Bakery Pty Ltd,bakery cakes bread,ironbark,1,active,,145,5
+R0063,com.au,company,Harbour Electrical Pty Ltd,electrical wiring,harbourele,1,active,,209,3
+R0064,com.au,trade_mark_holder,Wattle Printing Association Inc,printing signage,wattleprinting,1,active,0,332,1
+R0065,com.au,business_name,Fernhill Physio Pty Ltd,physiotherapy rehabilitation,fernphysiotherapy,1,active,,31,1
+R0066,com.au,company,Fernhill Physio Pty Ltd,physiotherapy rehabilitation,fernhillphysio,1,active,,267,1
+R0067,org.au,club,Harbour Plumbing Association Inc,plumbing repairs,harbourplumbing,1,active,,42,1
+R0068,net.au,sole_trader,Ella Burrows trading as Kestrel Consulting,business consulting,kestconsulting,1,active,,143,5
+R0069,id.au,individual,Chen Liu,bicycle repairs cycling,chenliu,1,active,,346,1
+R0070,id.au,individual,Alex Marlow,bicycle repairs cycling,alexmarlow,1,active,,198,1
+R0071,org.au,nonprofit,Quarry Cycles Association Inc,bicycle repairs cycling,bestdeals,1,active,,817,23
+R0072,id.au,individual,Mia Fitzgerald,bicycle repairs cycling,miafitzgerald,1,active,,130,3
+R0073,net.au,company,Northgate Bakery Pty Ltd,bakery cakes bread,casinoplay,1,active,,349,5
+R0074,asn.au,inc_assoc,Fernhill Plumbing Association Inc,plumbing repairs,fp,1,active,,219,1
+R0075,id.au,company,Saltbush Cycles Pty Ltd,bicycle repairs cycling,saltbushcyc,1,active,,83,1
+R0076,id.au,individual,Sam Okafor,landscaping gardens,samokafor,1,active,,285,2
+R0077,net.au,company,Wattle Printing Pty Ltd,printing signage,wp,1,active,,65,1
+R0078,id.au,individual,Jess Whitlam,tutoring education,jesswhitlam,1,active,,142,2
+R0079,com.au,company,Wattle Consulting Pty Ltd,business consulting,wc,1,active,,247,1
+R0080,asn.au,nonprofit,Quarry Landscaping Association Inc,landscaping gardens,quarlandscaping,1,pending,,124,5
+R0081,asn.au,club,Coral Physio Association Inc,physiotherapy rehabilitation,cp,1,pending,,223,1
+R0082,com.au,business_name,Harbour Electrical Pty Ltd,electrical wiring,harbourele,1,active,,277,1
+R0083,org.au,inc_assoc,Ironbark Physio Association Inc,physiotherapy rehabilitation,ironbark,1,active,,323,2
+R0084,com.au,company,Bellbird Printing Pty Ltd,printing signage,bellbirdprinting,1,active,,32,1
+R0085,id.au,individual,Ella Burrows,tutoring education,ellaburrows,1,active,,276,2
+R0086,com.au,business_name,Wattle Physio Pty Ltd,physiotherapy rehabilitation,wattlephysio,1,active,,269,1
+R0087,com.au,company,Bellbird Tutoring Pty Ltd,tutoring education,bellbirdtut,1,active,,287,5
+R0088,com.au,company,Ironbark Cycles Pty Ltd,bicycle repairs cycling,ironbarkcyc,1,active,,125,2
+R0089,org.au,club,Bellbird Physio Association Inc,physiotherapy rehabilitation,bp,1,active,,179,1
+R0090,org.au,inc_assoc,Lantern Bakery Association Inc,bakery cakes bread,lantern,1,active,,329,34
+R0091,org.au,charity,Bellbird Electrical Association Inc,electrical wiring,bellbirdele,1,active,,27,1
+R0092,com.au,trade_mark_holder,Oakridge Bakery Pty Ltd,bakery cakes bread,oakridgebakery,1,active,1,204,2
+R0093,com.au,business_name,Lantern Cycles Pty Ltd,bicycle repairs cycling,lanterncyc,1,active,,268,2
+R0094,com.au,company,Summit Printing Pty Ltd,printing signage,summit,1,active,,76,1
+R0095,id.au,individual,Tom Haddad,tutoring education,oatuhub,1,active,,38,1
+R0096,com.au,business_name,Harbour Plumbing Pty Ltd,plumbing repairs,harbour,1,active,,72,1
+R0097,com.au,trade_mark_holder,Cedar Electrical Pty Ltd,electrical wiring,cedarelectrical,1,active,1,332,1
+R0098,org.au,nonprofit,Coral Printing Association Inc,printing signage,coralprinting,1,active,,87,1
+R0099,com.au,company,Cedar Bakery Pty Ltd,bakery cakes bread,cedarbakery,1,active,,193,1
+R0100,com.au,business_name,Banksia Bakery Pty Ltd,bakery cakes bread,banksia,1,active,,74,1
+R0101,org.au,nonprofit,Quarry Tutoring Association Inc,tutoring education,quarry,1,active,,298,2
+R0102,id.au,individual,Tom Haddad,physiotherapy rehabilitation,tomhaddad,1,active,,117,1
+R0103,net.au,partnership,Oakridge Electrical Pty Ltd,electrical wiring,cheapflights,1,active,,168,1
+R0104,com.au,trade_mark_holder,Bellbird Electrical Pty Ltd,electrical wiring,bellbirdelectrical,1,active,1,235,3
+R0105,net.au,trade_mark_holder,Oakridge Consulting Pty Ltd,business consulting,oakridgeconsulting,1,active,1,267,2
+R0106,com.au,sole_trader,Ella Burrows trading as Tidewater Bakery,bakery cakes bread,tibahub,1,active,,9,1
+R0107,com.au,trade_mark_holder,Banksia Bakery Pty Ltd,bakery cakes bread,banksiabakery,1,active,1,67,1
+R0108,com.au,company,Northgate Bakery Pty Ltd,bakery cakes bread,northgatebakery,1,active,,119,1
+R0109,org.au,nonprofit,Northgate Physio Association Inc,physiotherapy rehabilitation,nortphysiotherapy,1,active,,350,1
+R0110,com.au,trade_mark_holder,Summit Consulting Pty Ltd,business consulting,summitconsulting,1,active,1,332,1
+R0111,com.au,business_name,Oakridge Plumbing Pty Ltd,plumbing repairs,oakrplumbing,1,cancelled,,338,1
+R0112,com.au,business_name,Quarry Accounting Pty Ltd,accounting tax bookkeeping,quarbookkeeping,0,active,,247,2
+R0113,com.au,inc_assoc,Lantern Accounting Association Inc,accounting tax bookkeeping,lantern,1,active,,102,5
+R0114,com.au,trade_mark_holder,Wattle Plumbing Pty Ltd,plumbing repairs,wattleplumbing,1,active,0,341,2
+R0115,com.au,company,Kestrel Plumbing Pty Ltd,plumbing repairs,kestrelplumbing,1,active,,85,1
+R0116,org.au,inc_assoc,Harbour Consulting Association Inc,business consulting,harbourcon,1,active,,26,5
+R0117,id.au,individual,Ella Burrows,bakery cakes bread,ellaburrows,1,active,,242,3
+R0118,com.au,sole_trader,Alex Marlow trading as Coral Tutoring,tutoring education,ct,1,active,,592,3
+R0119,com.au,trade_mark_holder,Cedar Tutoring Pty Ltd,tutoring education,cedartutoring,1,active,1,102,3
+R0120,com.au,company,Banksia Physio Pty Ltd,physiotherapy rehabilitation,bankphysiotherapy,1,active,,151,1
+R0121,com.au,sole_trader,Ella Burrows trading as Saltbush Plumbing,plumbing repairs,saltbush,1,active,,13,1
+R0122,com.au,sole_trader,Mia Fitzgerald trading as Kestrel Physio,physiotherapy rehabilitation,kp,1,active,,341,1
+R0123,com.au,business_name,Tidewater Landscaping Pty Ltd,landscaping gardens,tilahub,1,active,,223,3
+R0124,org.au,nonprofit,Oakridge Printing Association Inc,printing signage,op,1,active,,287,3
+R0125,asn.au,club,Coral Consulting Association Inc,business consulting,coraconsulting,1,active,,128,2
+R0126,com.au,company,Harbour Consulting Pty Ltd,business consulting,hc,1,active,,145,1
+R0127,com.au,business_name,Riverbend Bakery Pty Ltd,bakery cakes bread,rb,1,active,,272,39
+R0128,org.au,club,Kestrel Cycles Association Inc,bicycle repairs cycling,kestrelcyc,1,active,,104,1
+R0129,org.au,individual,Alex Marlow,electrical wiring,alexmarlow,1,active,,321,1
+R0130,com.au,trade_mark_holder,Jess Whitlam trading as Ironbark Tutoring,tutoring education,ironbarktutoring,1,active,0,333,1
+R0131,com.au,business_name,Bluegum Tutoring Pty Ltd,tutoring education,bluegum,1,active,,11,1
+R0132,org.au,club,Northgate Consulting Association Inc,business consulting,nc,0,active,,160,1
+R0133,com.au,company,Bellbird Tutoring Pty Ltd,tutoring education,bellbirdtut,1,active,,272,1
+R0134,asn.au,nonprofit,Summit Cycles Association Inc,bicycle repairs cycling,summitcycles,1,active,,37,1
+R0135,com.au,business_name,Oakridge Printing Pty Ltd,printing signage,oakridge,1,active,,309,1
+R0136,com.au,company,Granite Landscaping Pty Ltd,landscaping gardens,granitelandscaping,1,active,,116,1
+R0137,com.au,company,Wattle Printing Pty Ltd,printing signage,wattleprinting,1,active,,254,2
+R0138,id.au,individual,Tom Haddad,bakery cakes bread,tomhaddad,1,active,,64,5
+R0139,com.au,inc_assoc,Ironbark Accounting Association Inc,accounting tax bookkeeping,ironbarkacc,1,active,,80,1
+R0140,com.au,company,Wattle Tutoring Pty Ltd,tutoring education,wt,1,active,,66,3
+R0141,id.au,individual,Priya Nandakumar,business consulting,priyanandakumar,1,active,,144,2
+R0142,com.au,partnership,Northgate Electrical Pty Ltd,electrical wiring,northgateelectrical,1,active,,166,3
+R0143,id.au,trade_mark_holder,Quarry Printing Pty Ltd,printing signage,quarryprinting,1,active,1,181,5
+R0144,net.au,company,Northgate Printing Pty Ltd,printing signage,np,1,active,,167,3
+R0145,com.au,company,Granite Physio Pty Ltd,physiotherapy rehabilitation,gp,1,active,,637,5
+R0146,id.au,individual,Alex Marlow,tutoring education,metuhub,1,active,,88,1
+R0147,com.au,company,Harbour Cycles Pty Ltd,bicycle repairs cycling,harbbicycle,1,pending,,18,3
+R0148,com.au,trade_mark_holder,Bellbird Bakery Pty Ltd,bakery cakes bread,bellbirdbakery,1,active,0,317,1
+R0149,com.au,trade_mark_holder,Wattle Accounting Pty Ltd,accounting tax bookkeeping,wattleaccounting,1,active,1,14,5
+R0150,com.au,sole_trader,Alex Marlow trading as Riverbend Bakery,bakery cakes bread,riverbend,1,active,,227,1
+R0151,com.au,trade_mark_holder,Bluegum Cycles Pty Ltd,bicycle repairs cycling,bluegumcycles,1,active,1,323,1
+R0152,com.au,company,Quarry Cycles Pty Ltd,bicycle repairs cycling,qc,1,active,,162,1
+R0153,com.au,company,Ironbark Consulting Pty Ltd,business consulting,ircohub,1,active,,275,1
+R0154,com.au,company,Oakridge Cycles Pty Ltd,bicycle repairs cycling,oakridgecycles,1,active,,320,1
+R0155,org.au,inc_assoc,Wattle Physio Association Inc,physiotherapy rehabilitation,wattle,1,active,,223,1
+R0156,com.au,business_name,Granite Accounting Pty Ltd,accounting tax bookkeeping,graniteacc,1,active,,309,1
+R0157,com.au,company,Ironbark Landscaping Pty Ltd,landscaping gardens,ironbark,1,active,,87,2
+R0158,com.au,company,Cedar Landscaping Pty Ltd,landscaping gardens,cl,1,active,,251,5
+R0159,org.au,inc_assoc,Wattle Tutoring Association Inc,tutoring education,wt,1,active,,39,2
+R0160,com.au,company,Granite Electrical Pty Ltd,electrical wiring,graniteelectrical,1,active,,340,2
+R0161,com.au,trade_mark_holder,Bluegum Consulting Pty Ltd,business consulting,bluegumconsulting,0,active,1,279,1
+R0162,org.au,club,Wattle Electrical Association Inc,electrical wiring,wattle,1,active,,83,1
+R0163,org.au,charity,Oakridge Electrical Association Inc,electrical wiring,oakridgeelectrical,1,active,,73,3
+R0164,net.au,trade_mark_holder,Kestrel Accounting Pty Ltd,accounting tax bookkeeping,kestrelaccounting,1,active,1,213,3
+R0165,com.au,trade_mark_holder,Riverbend Electrical Pty Ltd,electrical wiring,loansnow,1,active,1,280,1
+R0166,com.au,company,Quarry Electrical Pty Ltd,electrical wiring,quarryele,1,active,,69,5
+R0167,com.au,sole_trader,Chen Liu trading as Banksia Consulting,business consulting,banksiacon,1,pending,,12,1
+R0168,id.au,individual,Mia Fitzgerald,landscaping gardens,miafitzgerald,1,active,,57,1
+R0169,com.au,company,Granite Landscaping Pty Ltd,landscaping gardens,granitelan,1,active,,216,3
+R0170,id.au,individual,Priya Nandakumar,accounting tax bookkeeping,priyanandakumar,1,active,,307,1
+R0171,com.au,company,Bluegum Cycles Pty Ltd,bicycle repairs cycling,bluegumcycles,1,active,,193,3
+R0172,com.au,business_name,Oakridge Landscaping Pty Ltd,landscaping gardens,vapeshop,1,active,,478,52
+R0173,com.au,company,Coral Cycles Pty Ltd,bicycle repairs cycling,coralcycles,1,active,,126,3
+R0174,id.au,individual,Alex Marlow,landscaping gardens,alexmarlow,1,active,,131,1
+R0175,com.au,company,Ironbark Cycles Pty Ltd,bicycle repairs cycling,ic,1,active,,150,2
+R0176,id.au,individual,Ella Burrows,bicycle repairs cycling,ellaburrows,1,active,,207,2
+R0177,id.au,individual,Ella Burrows,landscaping gardens,ellaburrows,1,active,,136,2
+R0178,id.au,trade_mark_holder,Saltbush Electrical Pty Ltd,electrical wiring,saltbushelectrical,1,active,1,261,1
+R0179,org.au,charity,Bellbird Accounting Association Inc,accounting tax bookkeeping,bellbird,1,active,,43,1
+R0180,net.au,inc_assoc,Oakridge Accounting Association Inc,accounting tax bookkeeping,oakridgeaccounting,1,active,,92,1
+R0181,id.au,individual,Ella Burrows,landscaping gardens,ellaburrows,1,active,,316,1
+R0182,net.au,company,Ironbark Printing Pty Ltd,printing signage,ironbarkprinting,1,active,,314,3
+R0183,com.au,business_name,Saltbush Tutoring Pty Ltd,tutoring education,saltbushtut,1,active,,305,2
+R0184,com.au,company,Ironbark Consulting Pty Ltd,business consulting,ironbarkcon,1,active,,61,1
+R0185,com.au,business_name,Oakridge Physio Pty Ltd,physiotherapy rehabilitation,oakridgephysio,1,active,,205,5
+R0186,org.au,nonprofit,Ironbark Plumbing Association Inc,plumbing repairs,ip,1,active,,337,5
+R0187,id.au,individual,Chen Liu,landscaping gardens,chenliu,1,active,,76,1
+R0188,com.au,sole_trader,Chen Liu trading as Bluegum Tutoring,tutoring education,bt,1,pending,,72,3
+R0189,id.au,individual,Alex Marlow,bakery cakes bread,alexmarlow,1,active,,224,2
+R0190,com.au,company,Lantern Tutoring Pty Ltd,tutoring education,lanterntutoring,1,active,,120,5
+R0191,net.au,company,Granite Plumbing Pty Ltd,plumbing repairs,granrepairs,1,active,,261,5
+R0192,id.au,individual,Chen Liu,business consulting,chenliu,1,active,,119,2
+R0193,net.au,company,Riverbend Electrical Pty Ltd,electrical wiring,riverbend,1,active,,102,1
+R0194,net.au,company,Harbour Physio Pty Ltd,physiotherapy rehabilitation,harbour,1,pending,,224,5
+R0195,com.au,company,Harbour Accounting Pty Ltd,accounting tax bookkeeping,harbtax,1,active,,21,3
+R0196,com.au,company,Riverbend Electrical Pty Ltd,electrical wiring,riveelectrical,1,active,,79,5
+R0197,com.au,trade_mark_holder,Cedar Cycles Pty Ltd,bicycle repairs cycling,cedarcycles,1,active,1,43,1
+R0198,com.au,company,Cedar Landscaping Pty Ltd,landscaping gardens,cedar,1,active,,156,3
+R0199,com.au,company,Coral Physio Pty Ltd,physiotherapy rehabilitation,coral,1,active,,187,1
+R0200,com.au,trade_mark_holder,Northgate Tutoring Pty Ltd,tutoring education,casinoplay,1,active,1,120,1
+R0201,com.au,company,Northgate Cycles Pty Ltd,bicycle repairs cycling,northgatecycles,1,active,,320,1
+R0202,com.au,company,Bluegum Tutoring Pty Ltd,tutoring education,bluegumtutoring,1,active,,228,2
+R0203,org.au,charity,Riverbend Physio Association Inc,physiotherapy rehabilitation,riverbend,1,active,,257,1
+R0204,com.au,company,Lantern Landscaping Pty Ltd,landscaping gardens,lanternlan,1,active,,18,20
+R0205,asn.au,nonprofit,Ironbark Cycles Association Inc,bicycle repairs cycling,ironbarkcyc,1,active,,133,5
+R0206,net.au,company,Banksia Accounting Pty Ltd,accounting tax bookkeeping,banksiaaccounting,1,active,,334,2
+R0207,com.au,company,Quarry Consulting Pty Ltd,business consulting,quarry,1,active,,319,5
+R0208,asn.au,nonprofit,Riverbend Cycles Association Inc,bicycle repairs cycling,rivecycling,1,active,,181,3
+R0209,com.au,business_name,Cedar Physio Pty Ltd,physiotherapy rehabilitation,cp,1,active,,302,2
+R0210,com.au,company,Saltbush Landscaping Pty Ltd,landscaping gardens,saltgardens,1,cancelled,,190,1
+R0211,com.au,trade_mark_holder,Fernhill Landscaping Pty Ltd,landscaping gardens,fernhilllandscaping,1,active,0,140,5
+R0212,id.au,individual,Jess Whitlam,landscaping gardens,jesswhitlam,1,active,,227,1
+R0213,asn.au,club,Riverbend Electrical Association Inc,electrical wiring,riverbend,1,active,,47,1
+R0214,net.au,company,Banksia Cycles Pty Ltd,bicycle repairs cycling,bankbicycle,1,active,,338,2
+R0215,com.au,company,Northgate Landscaping Pty Ltd,landscaping gardens,northgate,1,active,,316,3
+R0216,id.au,individual,Chen Liu,bicycle repairs cycling,chenliu,1,active,,171,3
+R0217,com.au,sole_trader,Tom Haddad trading as Meridian Electrical,electrical wiring,meridianelectrical,1,active,,42,1
+R0218,com.au,business_name,Coral Cycles Pty Ltd,bicycle repairs cycling,coralcycles,1,active,,336,1
+R0219,asn.au,charity,Northgate Bakery Association Inc,bakery cakes bread,nortbakery,1,active,,56,3
+R0220,com.au,business_name,Saltbush Electrical Pty Ltd,electrical wiring,saltbush,1,active,,29,20
+R0221,com.au,trade_mark_holder,Banksia Bakery Association Inc,bakery cakes bread,banksiabakery,1,active,0,260,2
+R0222,net.au,company,Kestrel Consulting Pty Ltd,business consulting,kestrelcon,1,active,,272,5
+R0223,com.au,company,Quarry Accounting Pty Ltd,accounting tax bookkeeping,qa,1,active,,118,1
+R0224,org.au,club,Granite Electrical Association Inc,electrical wiring,ge,1,active,,258,5
+R0225,com.au,trade_mark_holder,Tidewater Electrical Pty Ltd,electrical wiring,tidewaterelectrical,1,active,1,100,1
+R0226,com.au,business_name,Wattle Cycles Pty Ltd,bicycle repairs cycling,wc,1,active,,140,1
+R0227,com.au,sole_trader,Jess Whitlam trading as Kestrel Bakery,bakery cakes bread,casinoplay,1,active,,712,47
+R0228,com.au,trade_mark_holder,Ironbark Cycles Pty Ltd,bicycle repairs cycling,ironbarkcycles,1,active,1,303,2
+R0229,com.au,business_name,Quarry Plumbing Pty Ltd,plumbing repairs,qp,1,active,,84,3
+R0230,org.au,inc_assoc,Meridian Consulting Association Inc,business consulting,mc,1,active,,242,3
+R0231,org.au,club,Fernhill Consulting Association Inc,business consulting,fernhillconsulting,1,active,,206,1
+R0232,id.au,individual,Priya Nandakumar,electrical wiring,priyanandakumar,1,active,,172,1
+R0233,net.au,sole_trader,Chen Liu trading as Bellbird Physio,physiotherapy rehabilitation,bellbirdphysio,1,active,,67,1
+R0234,com.au,company,Harbour Consulting Pty Ltd,business consulting,hc,1,pending,,238,1
+R0235,com.au,company,Tidewater Physio Pty Ltd,physiotherapy rehabilitation,tp,1,active,,241,1
+R0236,net.au,company,Quarry Bakery Pty Ltd,bakery cakes bread,quarry,1,active,,72,3
+R0237,id.au,individual,Priya Nandakumar,electrical wiring,priyanandakumar,1,active,,139,2
+R0238,com.au,company,Granite Landscaping Pty Ltd,landscaping gardens,granlandscaping,1,active,,338,1
+R0239,net.au,inc_assoc,Granite Physio Association Inc,physiotherapy rehabilitation,grphhub,1,active,,230,1
+R0240,id.au,individual,Chen Liu,printing signage,baprhub,1,active,,141,1
+R0241,org.au,club,Oakridge Printing Association Inc,printing signage,oakrsignage,1,active,,255,2
+R0242,com.au,business_name,Bellbird Landscaping Pty Ltd,landscaping gardens,bellbirdlan,1,active,,272,1
+R0243,com.au,company,Kestrel Electrical Pty Ltd,electrical wiring,kestrelelectrical,1,active,,98,38
+R0244,id.au,individual,Mia Fitzgerald,landscaping gardens,miafitzgerald,1,active,,73,5
+R0245,com.au,company,Fernhill Electrical Pty Ltd,electrical wiring,feelhub,1,active,,266,1
+R0246,id.au,individual,Tom Haddad,printing signage,tomhaddad,1,pending,,219,3
+R0247,com.au,company,Ironbark Landscaping Pty Ltd,landscaping gardens,ironlandscaping,1,active,,241,1
+R0248,id.au,business_name,Lantern Accounting Pty Ltd,accounting tax bookkeeping,lantbookkeeping,1,active,,193,1
+R0249,com.au,trade_mark_holder,Granite Bakery Pty Ltd,bakery cakes bread,granitebakery,1,active,1,112,2
+R0250,com.au,partnership,Fernhill Plumbing Pty Ltd,plumbing repairs,feplhub,1,active,,65,3
+R0251,org.au,charity,Riverbend Tutoring Association Inc,tutoring education,riverbend,1,active,,884,5
+R0252,com.au,inc_assoc,Bellbird Accounting Association Inc,accounting tax bookkeeping,bellaccounting,1,active,,161,1
+R0253,com.au,inc_assoc,Ironbark Electrical Association Inc,electrical wiring,ironwiring,1,active,,161,3
+R0254,org.au,inc_assoc,Bluegum Plumbing Association Inc,plumbing repairs,bluegumplumbing,1,active,,36,1
+R0255,org.au,inc_assoc,Northgate Cycles Association Inc,bicycle repairs cycling,nortbicycle,1,active,,127,2
+R0256,org.au,inc_assoc,Harbour Cycles Association Inc,bicycle repairs cycling,harbourcycles,1,active,,281,1
+R0257,id.au,individual,Sam Okafor,physiotherapy rehabilitation,samokafor,1,active,,45,1
+R0258,com.au,company,Tidewater Printing Pty Ltd,printing signage,tp,1,active,,66,1
+R0259,com.au,trade_mark_holder,Coral Physio Pty Ltd,physiotherapy rehabilitation,coralphysio,1,active,1,269,33
+R0260,com.au,sole_trader,Tom Haddad trading as Bluegum Consulting,business consulting,bc,1,active,,128,2
+R0261,com.au,company,Tidewater Landscaping Pty Ltd,landscaping gardens,tidewater,1,active,,160,5
+R0262,com.au,sole_trader,Mia Fitzgerald trading as Granite Electrical,electrical wiring,grelhub,1,active,,275,5
+R0263,org.au,nonprofit,Coral Accounting Association Inc,accounting tax bookkeeping,coralacc,1,active,,219,3
+R0264,org.au,nonprofit,Cedar Consulting Association Inc,business consulting,cedar,1,active,,340,3
+R0265,com.au,company,Fernhill Tutoring Pty Ltd,tutoring education,fernhill,1,active,,131,1
+R0266,org.au,club,Bellbird Bakery Association Inc,bakery cakes bread,bellbread,1,active,,10,5
+R0267,com.au,trade_mark_holder,Oakridge Cycles Pty Ltd,bicycle repairs cycling,oakridgecycles,1,active,1,200,1
+R0268,com.au,company,Harbour Printing Pty Ltd,printing signage,harbour,1,pending,,126,1
+R0269,com.au,trade_mark_holder,Tidewater Physio Pty Ltd,physiotherapy rehabilitation,tidewaterphysio,1,active,1,256,3
+R0270,com.au,company,Bluegum Consulting Pty Ltd,business consulting,bluegumconsulting,1,active,,275,5
+R0271,com.au,company,Tidewater Plumbing Pty Ltd,plumbing repairs,tidewater,1,cancelled,,282,2
+R0272,com.au,business_name,Wattle Bakery Pty Ltd,bakery cakes bread,wattlebak,1,active,,208,1
+R0273,com.au,company,Meridian Consulting Pty Ltd,business consulting,cheapflights,1,active,,408,38
+R0274,net.au,business_name,Granite Accounting Pty Ltd,accounting tax bookkeeping,graniteaccounting,1,active,,235,3
+R0275,com.au,trade_mark_holder,Tidewater Consulting Pty Ltd,business consulting,tidewaterconsulting,1,active,0,270,1
+R0276,com.au,company,Bellbird Plumbing Pty Ltd,plumbing repairs,bp,1,active,,328,1
+R0277,org.au,club,Cedar Physio Association Inc,physiotherapy rehabilitation,cedar,1,active,,244,5
+R0278,com.au,sole_trader,Tom Haddad trading as Riverbend Printing,printing signage,rivesignage,1,active,,247,3
+R0279,com.au,company,Summit Consulting Pty Ltd,business consulting,summitcon,1,cancelled,,29,5
+R0280,org.au,nonprofit,Coral Physio Association Inc,physiotherapy rehabilitation,coralphysio,1,active,,6,1
+R0281,com.au,sole_trader,Jess Whitlam trading as Kestrel Physio,physiotherapy rehabilitation,kestrel,1,active,,207,2
+R0282,com.au,business_name,Saltbush Bakery Pty Ltd,bakery cakes bread,saltbread,1,active,,94,3
+R0283,org.au,nonprofit,Harbour Bakery Association Inc,bakery cakes bread,harbourbak,1,active,,7,1
+R0284,com.au,business_name,Banksia Cycles Pty Ltd,bicycle repairs cycling,bankrepairs,1,pending,,72,1
+R0285,org.au,inc_assoc,Kestrel Tutoring Association Inc,tutoring education,kestreltut,1,active,,193,1
+R0286,id.au,individual,Mia Fitzgerald,bicycle repairs cycling,miafitzgerald,1,active,,211,2
+R0287,com.au,business_name,Ironbark Consulting Pty Ltd,business consulting,ironbusiness,1,active,,181,3
+R0288,com.au,sole_trader,Chen Liu trading as Kestrel Tutoring,tutoring education,kt,1,active,,144,1
+R0289,com.au,company,Oakridge Consulting Pty Ltd,business consulting,oakrconsulting,1,active,,247,1
+R0290,id.au,individual,Tom Haddad,landscaping gardens,tomhaddad,1,active,,334,2
+R0291,com.au,trade_mark_holder,Lantern Landscaping Pty Ltd,landscaping gardens,lanternlandscaping,1,active,0,101,1
+R0292,com.au,company,Riverbend Accounting Pty Ltd,accounting tax bookkeeping,riverbendacc,1,active,,19,3
+R0293,com.au,trade_mark_holder,Kestrel Plumbing Pty Ltd,plumbing repairs,keplhub,1,active,1,65,1
+R0294,net.au,company,Bluegum Bakery Pty Ltd,bakery cakes bread,bb,1,active,,34,1
+R0295,org.au,club,Wattle Accounting Association Inc,accounting tax bookkeeping,wattleacc,1,active,,195,2
+R0296,org.au,club,Riverbend Consulting Association Inc,business consulting,rivebusiness,1,active,,161,1
+R0297,com.au,company,Harbour Electrical Pty Ltd,electrical wiring,harbourelectrical,1,active,,314,2
+R0298,id.au,individual,Jess Whitlam,business consulting,jesswhitlam,1,active,,40,1
+R0299,org.au,inc_assoc,Saltbush Printing Association Inc,printing signage,saltbushpri,1,active,,187,2
+R0300,com.au,trade_mark_holder,Quarry Bakery Pty Ltd,bakery cakes bread,quarrybakery,1,pending,1,252,1
+R0301,id.au,individual,Chen Liu,physiotherapy rehabilitation,chenliu,1,active,,167,5
+R0302,net.au,company,Summit Tutoring Pty Ltd,tutoring education,summittutoring,1,active,,23,3
+R0303,com.au,company,Meridian Accounting Pty Ltd,accounting tax bookkeeping,ma,1,active,,40,5
+R0304,asn.au,nonprofit,Harbour Consulting Association Inc,business consulting,harbourcon,1,active,,341,2
+R0305,com.au,business_name,Tidewater Cycles Pty Ltd,bicycle repairs cycling,tc,1,active,,206,2
+R0306,com.au,partnership,Summit Tutoring Pty Ltd,tutoring education,summit,1,active,,263,1
+R0307,com.au,trade_mark_holder,Tidewater Consulting Pty Ltd,business consulting,tidewaterconsulting,1,active,1,239,1
+R0308,com.au,sole_trader,Chen Liu trading as Fernhill Cycles,bicycle repairs cycling,fernhillcyc,1,active,,29,1
+R0309,org.au,club,Bluegum Landscaping Association Inc,landscaping gardens,bluegumlan,1,active,,30,5
+R0310,com.au,inc_assoc,Bellbird Cycles Association Inc,bicycle repairs cycling,bellcycling,1,active,,315,3
+R0311,asn.au,inc_assoc,Wattle Physio Association Inc,physiotherapy rehabilitation,wattlephysio,1,active,,75,1
+R0312,com.au,company,Kestrel Plumbing Pty Ltd,plumbing repairs,kp,1,active,,178,1
+R0313,org.au,inc_assoc,Bluegum Electrical Association Inc,electrical wiring,vapeshop,1,active,,767,17
+R0314,org.au,charity,Oakridge Accounting Association Inc,accounting tax bookkeeping,oakridgeacc,1,active,,76,1
+R0315,id.au,individual,Alex Marlow,tutoring education,alexmarlow,1,active,,190,3
+R0316,com.au,trade_mark_holder,Riverbend Consulting Pty Ltd,business consulting,riverbendconsulting,1,active,1,145,1
+R0317,org.au,club,Harbour Consulting Association Inc,business consulting,hc,1,active,,198,5
+R0318,com.au,trade_mark_holder,Coral Accounting Pty Ltd,accounting tax bookkeeping,coralaccounting,1,active,1,94,1
+R0319,com.au,partnership,Banksia Cycles Pty Ltd,bicycle repairs cycling,bc,1,active,,8,1
+R0320,com.au,company,Oakridge Plumbing Pty Ltd,plumbing repairs,oakridgeplu,1,active,,246,1
+R0321,net.au,company,Oakridge Landscaping Pty Ltd,landscaping gardens,ol,1,active,,211,3
+R0322,id.au,individual,Tom Haddad,physiotherapy rehabilitation,tomhaddad,1,active,,259,3
+R0323,com.au,business_name,Quarry Tutoring Pty Ltd,tutoring education,quarry,1,active,,175,3
+R0324,net.au,inc_assoc,Northgate Plumbing Association Inc,plumbing repairs,northgate,1,active,,45,2
+R0325,asn.au,club,Bluegum Landscaping Association Inc,landscaping gardens,bluelandscaping,1,active,,201,1
+R0326,com.au,business_name,Coral Printing Pty Ltd,printing signage,cp,1,active,,339,1
+R0327,com.au,company,Granite Consulting Pty Ltd,business consulting,graniteconsulting,0,active,,215,5
+R0328,org.au,nonprofit,Lantern Accounting Association Inc,accounting tax bookkeeping,lantern,1,active,,288,5
+R0329,com.au,business_name,Bellbird Tutoring Pty Ltd,tutoring education,bellbird,1,active,,238,1
+R0330,com.au,business_name,Banksia Physio Pty Ltd,physiotherapy rehabilitation,banksiaphy,1,active,,182,2
+R0331,com.au,company,Harbour Bakery Pty Ltd,bakery cakes bread,hb,1,active,,631,3
+R0332,org.au,charity,Tidewater Landscaping Association Inc,landscaping gardens,tidegardens,1,active,,137,1
+R0333,com.au,sole_trader,Sam Okafor trading as Oakridge Tutoring,tutoring education,oakridgetutoring,1,active,,293,3
+R0334,org.au,inc_assoc,Meridian Plumbing Association Inc,plumbing repairs,merirepairs,1,active,,139,5
+R0335,com.au,business_name,Fernhill Electrical Pty Ltd,electrical wiring,fernelectrical,1,active,,321,1
+R0336,com.au,company,Kestrel Electrical Pty Ltd,electrical wiring,kestrelele,1,active,,200,16
+R0337,com.au,company,Lantern Tutoring Pty Ltd,tutoring education,lanterntutoring,1,pending,,254,5
+R0338,id.au,individual,Jess Whitlam,bakery cakes bread,jesswhitlam,1,active,,267,2
+R0339,id.au,individual,Sam Okafor,accounting tax bookkeeping,samokafor,1,active,,90,1
+R0340,com.au,inc_assoc,Wattle Plumbing Association Inc,plumbing repairs,wattleplu,1,active,,247,2
+R0341,com.au,company,Cedar Printing Pty Ltd,printing signage,cedasignage,1,active,,304,1
+R0342,com.au,trade_mark_holder,Bellbird Plumbing Pty Ltd,plumbing repairs,bellbirdplumbing,1,active,1,18,3
+R0343,org.au,club,Wattle Consulting Association Inc,business consulting,wacohub,1,active,,188,3
+R0344,com.au,sole_trader,Mia Fitzgerald trading as Coral Electrical,electrical wiring,corawiring,1,active,,61,3
+R0345,net.au,sole_trader,Jess Whitlam trading as Riverbend Consulting,business consulting,riverbend,1,active,,257,1
+R0346,com.au,company,Ironbark Bakery Pty Ltd,bakery cakes bread,ironbarkbakery,1,active,,262,2
+R0347,org.au,club,Fernhill Accounting Association Inc,accounting tax bookkeeping,fa,1,active,,19,1
+R0348,id.au,individual,Chen Liu,electrical wiring,chenliu,1,cancelled,,147,1
+R0349,id.au,individual,Alex Marlow,tutoring education,alexmarlow,1,active,,291,5
+R0350,com.au,partnership,Lantern Physio Pty Ltd,physiotherapy rehabilitation,lanternphysio,1,active,,46,3
+R0351,id.au,individual,Mia Fitzgerald,physiotherapy rehabilitation,miafitzgerald,1,active,,196,2
+R0352,com.au,sole_trader,Chen Liu trading as Bellbird Plumbing,plumbing repairs,bellbirdplu,1,active,,319,1
+R0353,com.au,company,Kestrel Bakery Pty Ltd,bakery cakes bread,kestrelbakery,1,active,,228,2
+R0354,com.au,company,Ironbark Cycles Pty Ltd,bicycle repairs cycling,ironbark,1,active,,197,5
+R0355,asn.au,club,Fernhill Landscaping Association Inc,landscaping gardens,fl,1,active,,179,1
+R0356,com.au,inc_assoc,Saltbush Tutoring Association Inc,tutoring education,saltbush,1,active,,104,2
+R0357,com.au,business_name,Granite Electrical Pty Ltd,electrical wiring,graniteelectrical,1,active,,148,1
+R0358,com.au,business_name,Ironbark Cycles Pty Ltd,bicycle repairs cycling,ircyhub,1,active,,221,1
+R0359,net.au,trade_mark_holder,Quarry Printing Pty Ltd,printing signage,quarryprinting,1,active,1,210,40
+R0360,org.au,charity,Lantern Tutoring Association Inc,tutoring education,lanterntut,1,active,,10,3
+R0361,com.au,business_name,Bellbird Bakery Pty Ltd,bakery cakes bread,bellcakes,1,active,,198,2
+R0362,net.au,company,Harbour Bakery Pty Ltd,bakery cakes bread,harbourbakery,1,active,,206,1
+R0363,org.au,nonprofit,Meridian Printing Association Inc,printing signage,meridian,1,active,,69,5
+R0364,com.au,company,Ironbark Printing Pty Ltd,printing signage,ironbark,1,active,,20,2
+R0365,org.au,nonprofit,Banksia Plumbing Association Inc,plumbing repairs,banksiaplumbing,1,active,,330,1
+R0366,com.au,sole_trader,Alex Marlow trading as Riverbend Landscaping,landscaping gardens,riverbend,1,active,,273,1
+R0367,org.au,charity,Coral Physio Association Inc,physiotherapy rehabilitation,coralphysio,1,active,,65,1
+R0368,com.au,company,Ironbark Accounting Pty Ltd,accounting tax bookkeeping,ia,1,active,,141,1
+R0369,id.au,individual,Jess Whitlam,bakery cakes bread,loansnow,1,active,,568,27
+R0370,id.au,individual,Chen Liu,physiotherapy rehabilitation,chenliu,1,active,,35,2
+R0371,org.au,inc_assoc,Tidewater Bakery Association Inc,bakery cakes bread,tb,1,active,,43,5
+R0372,com.au,inc_assoc,Meridian Accounting Association Inc,accounting tax bookkeeping,ma,1,active,,279,3
+R0373,com.au,company,Bluegum Electrical Pty Ltd,electrical wiring,be,1,active,,148,5
+R0374,com.au,inc_assoc,Banksia Landscaping Association Inc,landscaping gardens,loansnow,1,active,,400,55
+R0375,com.au,business_name,Oakridge Tutoring Pty Ltd,tutoring education,oakridgetutoring,1,active,,115,5
+R0376,com.au,business_name,Riverbend Tutoring Pty Ltd,tutoring education,rt,1,active,,131,5
+R0377,com.au,trade_mark_holder,Meridian Electrical Pty Ltd,electrical wiring,meridianelectrical,1,active,1,267,2
+R0378,org.au,inc_assoc,Bellbird Consulting Association Inc,business consulting,bellbird,1,active,,285,5
+R0379,org.au,nonprofit,Bluegum Printing Association Inc,printing signage,bluegumprinting,1,active,,20,2
+R0380,id.au,individual,Tom Haddad,physiotherapy rehabilitation,tomhaddad,1,active,,157,2
+R0381,org.au,nonprofit,Banksia Accounting Association Inc,accounting tax bookkeeping,banksia,1,active,,262,1
+R0382,com.au,sole_trader,Mia Fitzgerald trading as Bellbird Accounting,accounting tax bookkeeping,bellbird,1,active,,73,1
+R0383,com.au,company,Granite Consulting Pty Ltd,business consulting,gc,1,active,,315,5
+R0384,com.au,business_name,Northgate Bakery Pty Ltd,bakery cakes bread,northgate,1,active,,108,3
+R0385,com.au,company,Oakridge Cycles Pty Ltd,bicycle repairs cycling,oakridgecycles,1,active,,154,5
+R0386,com.au,business_name,Tidewater Consulting Pty Ltd,business consulting,tc,1,active,,85,3
+R0387,com.au,sole_trader,Priya Nandakumar trading as Quarry Bakery,bakery cakes bread,quarrybak,1,active,,325,1
+R0388,org.au,charity,Banksia Consulting Association Inc,business consulting,banksiacon,1,active,,113,2
+R0389,net.au,company,Cedar Printing Pty Ltd,printing signage,cedarpri,1,active,,46,30
+R0390,com.au,company,Ironbark Cycles Pty Ltd,bicycle repairs cycling,ironbark,1,active,,765,1
+R0391,net.au,company,Oakridge Tutoring Pty Ltd,tutoring education,oakrtutoring,1,active,,131,5
+R0392,com.au,business_name,Granite Physio Pty Ltd,physiotherapy rehabilitation,grphhub,1,active,,38,5
+R0393,com.au,trade_mark_holder,Cedar Tutoring Pty Ltd,tutoring education,cedartutoring,1,active,0,309,5
+R0394,com.au,business_name,Oakridge Bakery Pty Ltd,bakery cakes bread,oakridgebak,1,active,,105,1
+R0395,id.au,individual,Tom Haddad,plumbing repairs,tomhaddad,1,active,,182,1
+R0396,net.au,trade_mark_holder,Kestrel Plumbing Pty Ltd,plumbing repairs,kestrelplumbing,1,pending,1,126,3
+R0397,com.au,trade_mark_holder,Granite Tutoring Pty Ltd,tutoring education,granitetutoring,1,active,1,114,2
+R0398,id.au,individual,Ella Burrows,tutoring education,ellaburrows,1,active,,167,1
+R0399,net.au,company,Quarry Plumbing Pty Ltd,plumbing repairs,qp,1,active,,289,3
+R0400,org.au,charity,Granite Electrical Association Inc,electrical wiring,graniteelectrical,1,active,,105,1
+R0401,id.au,individual,Sam Okafor,bicycle repairs cycling,samokafor,1,active,,123,5
+R0402,org.au,inc_assoc,Bellbird Tutoring Association Inc,tutoring education,bellbirdtutoring,1,active,,173,1
+R0403,com.au,inc_assoc,Quarry Tutoring Association Inc,tutoring education,quarry,1,active,,13,1
+R0404,net.au,company,Northgate Bakery Pty Ltd,bakery cakes bread,northgate,1,active,,713,2
+R0405,id.au,individual,Mia Fitzgerald,physiotherapy rehabilitation,miafitzgerald,1,active,,72,1
+R0406,org.au,club,Quarry Consulting Association Inc,business consulting,quarbusiness,1,active,,231,2
+R0407,com.au,partnership,Fernhill Accounting Pty Ltd,accounting tax bookkeeping,fernbookkeeping,1,active,,310,1
+R0408,com.au,company,Fernhill Electrical Pty Ltd,electrical wiring,fernhillelectrical,1,active,,102,5
+R0409,com.au,company,Saltbush Plumbing Pty Ltd,plumbing repairs,saltbushplu,1,active,,318,1
+R0410,com.au,partnership,Lantern Plumbing Pty Ltd,plumbing repairs,lp,1,active,,198,1
+R0411,org.au,club,Banksia Tutoring Association Inc,tutoring education,banksia,1,active,,132,1
+R0412,id.au,individual,Alex Marlow,physiotherapy rehabilitation,alexmarlow,1,active,,142,2
+R0413,com.au,company,Coral Plumbing Pty Ltd,plumbing repairs,coralplumbing,1,active,,190,2
+R0414,com.au,sole_trader,Mia Fitzgerald trading as Oakridge Landscaping,landscaping gardens,oakrlandscaping,1,active,,53,1
+R0415,com.au,business_name,Granite Plumbing Pty Ltd,plumbing repairs,graniteplumbing,1,active,,210,1
+R0416,com.au,inc_assoc,Banksia Physio Association Inc,physiotherapy rehabilitation,banksiaphy,1,active,,191,3
+R0417,com.au,company,Granite Bakery Pty Ltd,bakery cakes bread,grbahub,1,active,,124,3
+R0418,asn.au,inc_assoc,Meridian Printing Association Inc,printing signage,meridianprinting,0,active,,300,2
+R0419,com.au,company,Bluegum Tutoring Pty Ltd,tutoring education,bluetutoring,1,active,,226,3
+R0420,com.au,company,Tidewater Electrical Pty Ltd,electrical wiring,tidewaterelectrical,1,active,,8,5
+R0421,com.au,company,Wattle Electrical Pty Ltd,electrical wiring,we,1,active,,63,3
+R0422,com.au,business_name,Granite Consulting Pty Ltd,business consulting,gc,1,active,,271,3
+R0423,net.au,company,Granite Printing Pty Ltd,printing signage,gp,1,active,,159,2
+R0424,id.au,individual,Ella Burrows,plumbing repairs,ellaburrows,1,active,,6,2
+R0425,asn.au,club,Riverbend Tutoring Association Inc,tutoring education,rt,1,active,,149,1
+R0426,net.au,company,Granite Printing Pty Ltd,printing signage,gransignage,1,active,,37,5
+R0427,com.au,company,Banksia Printing Pty Ltd,printing signage,banksiaprinting,1,active,,284,3
+R0428,org.au,inc_assoc,Kestrel Physio Association Inc,physiotherapy rehabilitation,kestrel,1,active,,298,3
+R0429,org.au,charity,Harbour Bakery Association Inc,bakery cakes bread,harbbakery,1,active,,153,5
+R0430,net.au,company,Coral Landscaping Pty Ltd,landscaping gardens,coragardens,1,active,,276,1
+R0431,com.au,inc_assoc,Tidewater Plumbing Association Inc,plumbing repairs,tidewater,1,active,,348,1
+R0432,com.au,trade_mark_holder,Granite Physio Association Inc,physiotherapy rehabilitation,granitephysio,1,active,0,53,5
+R0433,com.au,sole_trader,Jess Whitlam trading as Fernhill Printing,printing signage,fernhill,1,active,,205,2
+R0434,com.au,business_name,Tidewater Printing Pty Ltd,printing signage,tidewaterpri,1,active,,156,2
+R0435,org.au,inc_assoc,Ironbark Printing Association Inc,printing signage,ironbarkpri,1,active,,125,1
+R0436,org.au,nonprofit,Oakridge Tutoring Association Inc,tutoring education,ot,1,active,,137,1
+R0437,com.au,trade_mark_holder,Saltbush Landscaping Pty Ltd,landscaping gardens,saltbushlandscaping,1,active,1,109,1
+R0438,id.au,individual,Tom Haddad,physiotherapy rehabilitation,tomhaddad,1,active,,149,1
+R0439,asn.au,inc_assoc,Fernhill Electrical Association Inc,electrical wiring,fernhillele,1,active,,219,3
+R0440,org.au,charity,Saltbush Accounting Association Inc,accounting tax bookkeeping,sa,1,active,,310,1
+R0441,id.au,individual,Mia Fitzgerald,tutoring education,miafitzgerald,1,active,,336,3
+R0442,org.au,inc_assoc,Lantern Tutoring Association Inc,tutoring education,lantern,1,active,,143,1
+R0443,com.au,company,Granite Cycles Pty Ltd,bicycle repairs cycling,grancycling,1,active,,165,1
+R0444,net.au,trade_mark_holder,Bluegum Cycles Pty Ltd,bicycle repairs cycling,bluegumcycles,1,active,1,18,1
+R0445,asn.au,nonprofit,Bellbird Consulting Association Inc,business consulting,bc,1,active,,221,1
+R0446,com.au,sole_trader,Priya Nandakumar trading as Cedar Physio,physiotherapy rehabilitation,cp,1,active,,238,2
+R0447,net.au,sole_trader,Alex Marlow trading as Meridian Physio,physiotherapy rehabilitation,mp,1,active,,210,3
+R0448,com.au,trade_mark_holder,Banksia Consulting Pty Ltd,business consulting,banksiaconsulting,1,active,1,296,1
+R0449,org.au,club,Summit Bakery Association Inc,bakery cakes bread,summitbak,1,active,,332,2
+R0450,com.au,business_name,Kestrel Bakery Pty Ltd,bakery cakes bread,kb,1,active,,73,1
+R0451,com.au,sole_trader,Jess Whitlam trading as Coral Electrical,electrical wiring,coelhub,1,active,,96,5
+R0452,id.au,individual,Jess Whitlam,physiotherapy rehabilitation,jesswhitlam,1,active,,285,1
+R0453,com.au,sole_trader,Jess Whitlam trading as Quarry Plumbing,plumbing repairs,qp,1,active,,198,5
+R0454,com.au,inc_assoc,Northgate Landscaping Association Inc,landscaping gardens,nortlandscaping,1,active,,25,5
+R0455,com.au,company,Northgate Electrical Pty Ltd,electrical wiring,northgateele,1,active,,293,1
+R0456,com.au,trade_mark_holder,Summit Consulting Association Inc,business consulting,summitconsulting,1,active,0,88,2
+R0457,id.au,individual,Sam Okafor,business consulting,samokafor,1,active,,21,36
+R0458,com.au,business_name,Granite Electrical Pty Ltd,electrical wiring,granite,1,active,,308,1
+R0459,id.au,individual,Ella Burrows,landscaping gardens,ellaburrows,1,active,,30,1
+R0460,com.au,business_name,Tidewater Accounting Pty Ltd,accounting tax bookkeeping,tidewater,1,active,,260,2
+R0461,org.au,charity,Ironbark Consulting Association Inc,business consulting,ironbarkconsulting,1,active,,263,1
+R0462,org.au,nonprofit,Granite Physio Association Inc,physiotherapy rehabilitation,granphysiotherapy,1,active,,80,3
+R0463,com.au,sole_trader,Chen Liu trading as Bluegum Tutoring,tutoring education,bt,1,active,,248,19
+R0464,com.au,company,Ironbark Electrical Pty Ltd,electrical wiring,ironbarkele,1,active,,224,3
+R0465,net.au,trade_mark_holder,Bluegum Bakery Pty Ltd,bakery cakes bread,bluegumbakery,1,active,1,296,5
+R0466,com.au,company,Harbour Landscaping Pty Ltd,landscaping gardens,hl,1,active,,105,1
+R0467,org.au,inc_assoc,Granite Cycles Association Inc,bicycle repairs cycling,granrepairs,1,active,,104,5
+R0468,com.au,company,Oakridge Landscaping Pty Ltd,landscaping gardens,oakridge,1,active,,102,3
+R0469,id.au,individual,Ella Burrows,physiotherapy rehabilitation,ellaburrows,1,active,,55,1
+R0470,com.au,company,Harbour Consulting Pty Ltd,business consulting,harbour,1,active,,160,2
+R0471,org.au,charity,Ironbark Printing Association Inc,printing signage,ironbark,1,active,,68,3
+R0472,id.au,individual,Sam Okafor,physiotherapy rehabilitation,samokafor,1,active,,36,3
+R0473,id.au,individual,Tom Haddad,bakery cakes bread,tomhaddad,1,pending,,231,1
+R0474,com.au,sole_trader,Tom Haddad trading as Saltbush Tutoring,tutoring education,saltbushtut,1,active,,142,1
+R0475,com.au,company,Fernhill Physio Pty Ltd,physiotherapy rehabilitation,fernhillphy,1,active,,344,3
+R0476,asn.au,nonprofit,Lantern Physio Association Inc,physiotherapy rehabilitation,lanternphy,1,active,,337,18
+R0477,net.au,sole_trader,Mia Fitzgerald trading as Kestrel Accounting,accounting tax bookkeeping,vapeshop,1,active,,209,3
+R0478,net.au,company,Bluegum Tutoring Pty Ltd,tutoring education,bluetutoring,1,active,,110,1
+R0479,com.au,company,Oakridge Electrical Pty Ltd,electrical wiring,oakridgeelectrical,1,active,,310,3
+R0480,com.au,sole_trader,Ella Burrows trading as Riverbend Printing,printing signage,rp,1,active,,325,1
+R0481,id.au,individual,Jess Whitlam,bakery cakes bread,jesswhitlam,1,active,,120,1
+R0482,org.au,inc_assoc,Bellbird Bakery Association Inc,bakery cakes bread,bellbirdbakery,1,active,,247,1
+R0483,com.au,sole_trader,Jess Whitlam trading as Ironbark Landscaping,landscaping gardens,ironbarklandscaping,1,active,,222,1
+R0484,org.au,inc_assoc,Summit Consulting Association Inc,business consulting,summitconsulting,1,active,,312,1
+R0485,id.au,individual,Mia Fitzgerald,bakery cakes bread,miafitzgerald,1,active,,163,1
+R0486,com.au,company,Granite Physio Pty Ltd,physiotherapy rehabilitation,granite,1,active,,133,2
+R0487,org.au,inc_assoc,Ironbark Consulting Association Inc,business consulting,ironbarkconsulting,1,active,,126,5
+R0488,com.au,sole_trader,Tom Haddad trading as Oakridge Consulting,business consulting,oakridgeconsulting,1,active,,92,5
+R0489,org.au,charity,Wattle Plumbing Association Inc,plumbing repairs,wattrepairs,1,active,,832,1
+R0490,com.au,company,Wattle Physio Pty Ltd,physiotherapy rehabilitation,wattlephy,1,active,,140,1
+R0491,com.au,business_name,Northgate Consulting Pty Ltd,business consulting,nortbusiness,1,active,,231,1
+R0492,com.au,business_name,Bluegum Accounting Pty Ltd,accounting tax bookkeeping,bluegumacc,1,pending,,346,5
+R0493,asn.au,nonprofit,Bellbird Bakery Association Inc,bakery cakes bread,bellbirdbak,1,active,,42,1
+R0494,com.au,business_name,Cedar Landscaping Pty Ltd,landscaping gardens,cedar,1,active,,428,2
+R0495,com.au,trade_mark_holder,Harbour Tutoring Pty Ltd,tutoring education,harbourtutoring,1,active,1,179,3
+R0496,com.au,business_name,Kestrel Landscaping Pty Ltd,landscaping gardens,kl,1,active,,198,1
+R0497,id.au,individual,Ella Burrows,bakery cakes bread,bebahub,1,active,,31,1
+R0498,com.au,company,Cedar Plumbing Pty Ltd,plumbing repairs,cp,1,active,,286,3
+R0499,com.au,inc_assoc,Tidewater Consulting Association Inc,business consulting,tidewatercon,1,active,,229,2
+R0500,com.au,company,Lantern Accounting Pty Ltd,accounting tax bookkeeping,lantaccounting,1,active,,307,1
+R0501,com.au,business_name,Fernhill Plumbing Pty Ltd,plumbing repairs,fernhillplu,1,active,,86,3
+R0502,org.au,nonprofit,Granite Cycles Association Inc,bicycle repairs cycling,granitecyc,1,active,,133,1
+R0503,com.au,company,Tidewater Physio Pty Ltd,physiotherapy rehabilitation,tidewaterphy,1,active,,39,1
+R0504,com.au,trade_mark_holder,Cedar Cycles Pty Ltd,bicycle repairs cycling,cedarcycles,1,active,1,132,1
+R0505,org.au,charity,Northgate Plumbing Association Inc,plumbing repairs,northgate,1,pending,,35,1
+R0506,com.au,trade_mark_holder,Oakridge Electrical Pty Ltd,electrical wiring,oakridgeelectrical,1,active,1,38,3
+R0507,asn.au,club,Riverbend Tutoring Association Inc,tutoring education,rt,1,active,,77,1
+R0508,asn.au,inc_assoc,Northgate Cycles Association Inc,bicycle repairs cycling,nc,1,active,,251,1
+R0509,com.au,company,Coral Plumbing Pty Ltd,plumbing repairs,cp,1,active,,197,1
+R0510,org.au,club,Kestrel Physio Association Inc,physiotherapy rehabilitation,kp,1,active,,198,1
+R0511,com.au,trade_mark_holder,Granite Physio Pty Ltd,physiotherapy rehabilitation,granitephysio,1,active,1,76,1
+R0512,org.au,inc_assoc,Lantern Cycles Association Inc,bicycle repairs cycling,lanterncyc,1,active,,149,1
+R0513,com.au,trade_mark_holder,Riverbend Electrical Pty Ltd,electrical wiring,riverbendelectrical,1,active,1,76,2
+R0514,id.au,trade_mark_holder,Wattle Physio Pty Ltd,physiotherapy rehabilitation,wattlephysio,1,active,1,48,1
+R0515,org.au,inc_assoc,Wattle Printing Association Inc,printing signage,wattsignage,1,active,,279,3
+R0516,com.au,sole_trader,Jess Whitlam trading as Banksia Consulting,business consulting,bc,1,active,,346,1
+R0517,com.au,company,Bellbird Electrical Pty Ltd,electrical wiring,be,1,active,,149,1
+R0518,com.au,trade_mark_holder,Oakridge Electrical Pty Ltd,electrical wiring,oakridgeelectrical,1,active,1,137,1
+R0519,com.au,business_name,Lantern Bakery Pty Ltd,bakery cakes bread,lanternbakery,1,active,,247,1
+R0520,com.au,trade_mark_holder,Cedar Tutoring Association Inc,tutoring education,cedartutoring,1,active,0,98,5
+R0521,com.au,business_name,Bellbird Tutoring Pty Ltd,tutoring education,bellbirdtut,1,pending,,285,2
+R0522,com.au,business_name,Bellbird Bakery Pty Ltd,bakery cakes bread,bellbakery,1,active,,140,1
+R0523,asn.au,nonprofit,Meridian Plumbing Association Inc,plumbing repairs,meridian,1,active,,161,1
+R0524,com.au,company,Lantern Consulting Pty Ltd,business consulting,lanternconsulting,1,active,,34,1
+R0525,org.au,club,Bellbird Landscaping Association Inc,landscaping gardens,loansnow,1,active,,896,30
+R0526,id.au,individual,Ella Burrows,bakery cakes bread,ellaburrows,1,active,,142,5
+R0527,com.au,sole_trader,Chen Liu trading as Ironbark Consulting,business consulting,ironconsulting,1,active,,148,1
+R0528,com.au,sole_trader,Sam Okafor trading as Banksia Consulting,business consulting,banksiacon,1,active,,23,1
+R0529,org.au,club,Kestrel Physio Association Inc,physiotherapy rehabilitation,kestrelphysio,1,active,,57,1
+R0530,com.au,inc_assoc,Summit Physio Association Inc,physiotherapy rehabilitation,summitphysio,0,active,,255,5
+R0531,com.au,sole_trader,Sam Okafor trading as Northgate Cycles,bicycle repairs cycling,nocyhub,1,active,,15,5
+R0532,com.au,company,Wattle Printing Pty Ltd,printing signage,wattlepri,1,active,,212,1
+R0533,org.au,inc_assoc,Meridian Accounting Association Inc,accounting tax bookkeeping,meridianaccounting,1,active,,17,1
+R0534,com.au,trade_mark_holder,Granite Accounting Pty Ltd,accounting tax bookkeeping,graniteaccounting,1,active,1,236,3
+R0535,com.au,sole_trader,Sam Okafor trading as Bellbird Printing,printing signage,bellbird,1,active,,168,5
+R0536,com.au,company,Saltbush Electrical Pty Ltd,electrical wiring,saltbushele,1,active,,183,1
+R0537,com.au,business_name,Banksia Landscaping Pty Ltd,landscaping gardens,banksia,1,active,,295,1
+R0538,net.au,trade_mark_holder,Coral Tutoring Pty Ltd,tutoring education,coraltutoring,1,active,1,35,1
+R0539,com.au,trade_mark_holder,Riverbend Physio Pty Ltd,physiotherapy rehabilitation,riverbendphysio,1,active,1,243,1
+R0540,com.au,business_name,Bluegum Tutoring Pty Ltd,tutoring education,bluegum,1,active,,5,2
+R0541,com.au,company,Summit Tutoring Pty Ltd,tutoring education,summeducation,1,active,,242,3
+R0542,com.au,company,Banksia Landscaping Pty Ltd,landscaping gardens,banksia,1,active,,290,1
+R0543,com.au,sole_trader,Priya Nandakumar trading as Banksia Electrical,electrical wiring,banksiaele,1,active,,26,1
+R0544,com.au,trade_mark_holder,Bellbird Plumbing Pty Ltd,plumbing repairs,bellbirdplumbing,1,active,1,264,1
+R0545,com.au,company,Lantern Bakery Pty Ltd,bakery cakes bread,lb,1,active,,110,1
+R0546,id.au,individual,Ella Burrows,printing signage,ellaburrows,1,active,,167,5
+R0547,org.au,club,Wattle Tutoring Association Inc,tutoring education,watteducation,1,active,,113,1
+R0548,org.au,charity,Summit Cycles Association Inc,bicycle repairs cycling,summitcyc,1,active,,306,2
+R0549,org.au,nonprofit,Summit Physio Association Inc,physiotherapy rehabilitation,summitphy,1,active,,110,1
+R0550,com.au,trade_mark_holder,Northgate Accounting Pty Ltd,accounting tax bookkeeping,northgateaccounting,1,active,1,39,5
+R0551,com.au,company,Kestrel Cycles Pty Ltd,bicycle repairs cycling,kc,1,active,,6,2
+R0552,id.au,individual,Tom Haddad,business consulting,grcohub,1,active,,301,5
+R0553,com.au,trade_mark_holder,Lantern Physio Pty Ltd,physiotherapy rehabilitation,lanternphysio,1,active,0,155,1
+R0554,com.au,company,Meridian Cycles Pty Ltd,bicycle repairs cycling,mc,1,active,,236,2
+R0555,com.au,trade_mark_holder,Northgate Bakery Pty Ltd,bakery cakes bread,northgatebakery,1,active,1,208,1
+R0556,id.au,individual,Priya Nandakumar,physiotherapy rehabilitation,priyanandakumar,1,active,,807,1
+R0557,com.au,inc_assoc,Riverbend Physio Association Inc,physiotherapy rehabilitation,riverbendphy,1,active,,268,2
+R0558,com.au,company,Meridian Printing Pty Ltd,printing signage,meriprinting,1,active,,161,1
+R0559,com.au,partnership,Bellbird Tutoring Pty Ltd,tutoring education,bellbirdtutoring,1,active,,163,5
+R0560,org.au,club,Tidewater Electrical Association Inc,electrical wiring,te,1,active,,139,1
+R0561,org.au,inc_assoc,Meridian Plumbing Association Inc,plumbing repairs,meriplumbing,1,active,,5,1
+R0562,id.au,individual,Priya Nandakumar,plumbing repairs,priyanandakumar,1,active,,35,1
+R0563,org.au,nonprofit,Harbour Physio Association Inc,physiotherapy rehabilitation,harbrehabilitation,1,active,,169,1
+R0564,com.au,company,Saltbush Plumbing Pty Ltd,plumbing repairs,sp,1,active,,245,2
+R0565,com.au,company,Wattle Accounting Pty Ltd,accounting tax bookkeeping,wattleaccounting,1,active,,231,3
+R0566,org.au,charity,Harbour Printing Association Inc,printing signage,harbourpri,1,active,,311,3
+R0567,com.au,sole_trader,Alex Marlow trading as Saltbush Physio,physiotherapy rehabilitation,saltbush,1,active,,247,3
+R0568,com.au,company,Cedar Accounting Pty Ltd,accounting tax bookkeeping,cedaracc,1,active,,221,5
+R0569,com.au,sole_trader,Mia Fitzgerald trading as Bluegum Consulting,business consulting,bluebusiness,1,active,,42,1
+R0570,com.au,company,Lantern Consulting Pty Ltd,business consulting,vapeshop,1,active,,883,16
+R0571,net.au,company,Summit Tutoring Pty Ltd,tutoring education,st,1,active,,166,1
+R0572,org.au,charity,Summit Cycles Association Inc,bicycle repairs cycling,summbicycle,1,active,,128,5
+R0573,com.au,business_name,Meridian Physio Pty Ltd,physiotherapy rehabilitation,meridian,1,active,,260,5
+R0574,org.au,inc_assoc,Tidewater Physio Association Inc,physiotherapy rehabilitation,tidewaterphysio,1,active,,323,3
+R0575,com.au,sole_trader,Jess Whitlam trading as Ironbark Plumbing,plumbing repairs,ip,1,active,,287,1
+R0576,org.au,nonprofit,Riverbend Consulting Association Inc,business consulting,riveconsulting,1,active,,100,1
+R0577,net.au,company,Granite Consulting Pty Ltd,business consulting,granconsulting,1,active,,309,2
+R0578,com.au,company,Saltbush Cycles Pty Ltd,bicycle repairs cycling,saltbushcyc,1,active,,303,1
+R0579,org.au,charity,Northgate Plumbing Association Inc,plumbing repairs,np,1,active,,229,1
+R0580,org.au,club,Quarry Tutoring Association Inc,tutoring education,quarry,1,active,,16,3
+R0581,com.au,partnership,Saltbush Tutoring Pty Ltd,tutoring education,salteducation,1,active,,295,5
+R0582,asn.au,charity,Kestrel Cycles Association Inc,bicycle repairs cycling,kestrelcyc,1,active,,76,1
+R0583,com.au,company,Ironbark Landscaping Pty Ltd,landscaping gardens,ironbark,1,active,,283,1
+R0584,com.au,sole_trader,Priya Nandakumar trading as Wattle Accounting,accounting tax bookkeeping,wattle,1,pending,,277,2
+R0585,com.au,partnership,Tidewater Cycles Pty Ltd,bicycle repairs cycling,tidewatercycles,1,active,,273,5
+R0586,com.au,sole_trader,Ella Burrows trading as Meridian Consulting,business consulting,meridianconsulting,1,active,,5,5
+R0587,id.au,individual,Ella Burrows,tutoring education,ellaburrows,1,active,,84,1
+R0588,org.au,charity,Quarry Consulting Association Inc,business consulting,quarry,1,active,,33,3
+R0589,com.au,business_name,Bluegum Plumbing Pty Ltd,plumbing repairs,bluegumplumbing,1,active,,34,1
+R0590,com.au,business_name,Harbour Cycles Pty Ltd,bicycle repairs cycling,hc,1,active,,187,5
+R0591,net.au,trade_mark_holder,Bellbird Consulting Pty Ltd,business consulting,bellbirdconsulting,1,active,1,22,1
+R0592,com.au,trade_mark_holder,Oakridge Landscaping Pty Ltd,landscaping gardens,oakridgelandscaping,1,active,1,237,2
+R0593,org.au,nonprofit,Cedar Accounting Association Inc,accounting tax bookkeeping,cedaracc,1,active,,201,1
+R0594,com.au,trade_mark_holder,Lantern Accounting Pty Ltd,accounting tax bookkeeping,lanternaccounting,1,active,1,34,1
+R0595,id.au,individual,Priya Nandakumar,plumbing repairs,priyanandakumar,1,active,,7,1
+R0596,com.au,business_name,Fernhill Printing Pty Ltd,printing signage,fp,1,active,,147,3
+R0597,org.au,club,Cedar Tutoring Association Inc,tutoring education,cedaeducation,1,active,,262,3
+R0598,com.au,company,Kestrel Printing Pty Ltd,printing signage,kestrel,1,active,,327,3
+R0599,org.au,charity,Harbour Physio Association Inc,physiotherapy rehabilitation,hp,1,active,,107,31
+R0600,org.au,inc_assoc,Kestrel Physio Association Inc,physiotherapy rehabilitation,kestrehabilitation,1,active,,26,1
